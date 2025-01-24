@@ -1,0 +1,4 @@
+Day 1: Building the Foundation:
+
+The first day of the hackathon was all about setting up the basics for my e-commerce marketplace with the help of pen/pencil and paper. 🌟 I started by brainstorming and defining the core purpose of my platform. The goal? To solve everyday shopping problems by helping people discover fresh styles, better-quality clothing, and affordable prices. 💡
+I thought a lot about who my marketplace is for—young people, adults, families, and anyone who loves fashion. The idea is to make shopping not just convenient but special. What makes my marketplace stand out is the promise of 100% accurate product descriptions, lightning-fast delivery, and exclusive discounts that customers will love.
