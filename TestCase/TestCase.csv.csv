@@ -1,0 +1,14 @@
+Section,Error Type / Product Name,Details / Description,Category,Price,Stock Status
+Error Logs,npm ERR!,A complete log of this run can be found in: C:\Users\Home\AppData\...,,,
+Error Logs,npm ERR!,Missing script: 'import',,,
+Error Logs,npm ERR!,"To see a list of scripts, run:",,,
+Error Logs,npm ERR!,    npm run,,,
+Error Logs,npm ERR!,A complete log of this run can be found in: C:\Users\Home\AppData\...,,,
+Product List,Vienna Elegant Knit,Stylish and comfortable knitwear.,Knitwear,$35,In Stock
+Product List,Classic White Pullover Hoodie,A versatile hoodie for all seasons.,Hoodies,$40,In Stock
+Product List,Orange Stripe T-Shirt,Casual T-shirt with vibrant stripes.,T-Shirts,$20,In Stock
+Product List,Classic Black Pullover Hoodie,A trendy black hoodie for any outfit.,Hoodies,$40,In Stock
+Product List,Classic Pink Shirt,A light pink shirt with a soft touch.,Shirts,$25,In Stock
+Product List,Gray Stretch Jogger Pants,Comfortable and durable jogger pants.,Pants,$30,In Stock
+Product List,Black Jogger Pants,Stylish jogger pants for casual wear.,Pants,$30,In Stock
+Product List,Orange Graphic Tee,Graphic T-shirt with bold prints.,T-Shirts,$22,In Stock
